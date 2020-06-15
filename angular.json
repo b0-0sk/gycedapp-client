@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gycedapp-client"
+    }
+  },
+  "defaultProject": "gycedapp-client",
+  "cli": {
+    "analytics": false
+  }
 }
